@@ -4,6 +4,8 @@
 
 build/
 target/
+result/
+result
 
 tmp/
 *.log
